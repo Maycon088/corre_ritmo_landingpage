@@ -1,5 +1,6 @@
 const distanceGuides = {
   5: { title: 'Comece com calma', copy: 'Alterne corrida leve e caminhada. O objetivo é criar o hábito, não correr rápido. Com consistência, os 5 km chegam.', meta: 'Sem pressa. Cada passo conta.' },
+  10: { title: 'Aumente com constância', copy: 'Se os 5 km já estão confortáveis, aumente a distância gradualmente. Intercale corridas leves, descanso e fortalecimento para construir resistência até os 10 km.', meta: 'A evolução acontece aos poucos.' },
   15: { title: 'Dê tempo ao corpo', copy: 'Combine treinos leves com descanso e aumente o volume aos poucos. Uma base confortável ajuda a chegar aos 15 km com mais confiança.', meta: 'Consistência antes de velocidade.' },
   21: { title: 'Treine com estratégia', copy: 'A meia maratona pede semanas de preparação, corridas longas graduais, recuperação e atenção ao ritmo. Planeje com orientação profissional.', meta: 'Paciência também é treino.' },
   42: { title: 'Prepare cada detalhe', copy: 'A maratona é uma jornada de meses. Construa uma base sólida, progrida com cuidado e pratique sua estratégia de ritmo, hidratação e energia nos treinos.', meta: 'Respeite o processo.' }

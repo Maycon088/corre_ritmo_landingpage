@@ -5,7 +5,7 @@ Landing page responsiva com informações para quem quer começar a correr ou ev
 ## Conteúdo da página
 
 - Benefícios da corrida para o corpo, a mente, a rotina e a conexão com outras pessoas.
-- Cards interativos com orientações gerais para 5 km, 15 km, 21 km e 42 km.
+- Cards interativos com orientações gerais para 5 km, 10 km, 15 km, 21 km e 42 km.
 - Passos para evoluir gradualmente, respeitando descanso e sinais do corpo.
 - Dicas gerais de alimentação e hidratação antes, durante e depois da corrida.
 - Navegação adaptada para celulares e tablets.
